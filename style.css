@@ -53,8 +53,7 @@ text-align: center;
     height: 100%;
     border-radius: 40px;
     box-shadow: 
-    0 1.85px 3.15px 0 rgba(0, 0, 0, 0.28),
-    0 38.15px 6.52px 10px rgba(0, 0, 0, 0.03)
+    0 1.85px 3.15px 0 rgba(0, 0, 0, 0.28);
 }
 .destination-img-wrapper{
     height: 327px;
